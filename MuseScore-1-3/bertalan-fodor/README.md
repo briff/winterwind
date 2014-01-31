@@ -98,5 +98,4 @@ accent mark as well)
 - Trick at the end: hidden beam, moved every note right 1 bit step and 4 small steps to align with left hand.
 - I didn't want to add one more bar, so just changed ending barline, added extra space after last note and added an F-clef symbol
 - 5 minutes
-
- 
+- I couldn't find a add a big nice musical parenthesis, so I used the one from the text font
